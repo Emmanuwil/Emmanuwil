@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emmanuwil
-- 👀 I’m interested in ... learning how to code
+- 👀 I’m learning how to code
 - 🌱 I’m currently learning ..., Python, Javascript & Rust
-- 💞️ I’m looking to collaborate on ... projects that can teach me everything @ need too to know about coding
+- 💞️ I’m looking to collaborate on  projects that can grow my knowledge in tech.
 - 📫 How to reach me ... @emmanuwilsimon on twitter, instagram, facebook & linkedin
 
 <!---
